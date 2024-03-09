@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/masoudbanimahd/MyProjects/ClearnArchitecture+CQRS/ClearnArcCQRS/Application/Application.csproj",
-      "projectName": "Application",
-      "projectPath": "/Users/masoudbanimahd/MyProjects/ClearnArchitecture+CQRS/ClearnArcCQRS/Application/Application.csproj",
+      "projectUniqueName": "/Users/masoudbanimahd/MyProjects/ClearnArchitecture+CQRS/ClearnArcCQRS/Domain/Domain.csproj",
+      "projectName": "Domain",
+      "projectPath": "/Users/masoudbanimahd/MyProjects/ClearnArchitecture+CQRS/ClearnArcCQRS/Domain/Domain.csproj",
       "packagesPath": "/Users/masoudbanimahd/.nuget/packages/",
-      "outputPath": "/Users/masoudbanimahd/MyProjects/ClearnArchitecture+CQRS/ClearnArcCQRS/Application/obj/",
+      "outputPath": "/Users/masoudbanimahd/MyProjects/ClearnArchitecture+CQRS/ClearnArcCQRS/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/masoudbanimahd/.nuget/NuGet/NuGet.Config"
