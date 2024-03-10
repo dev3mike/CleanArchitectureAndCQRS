@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tkRggZL1GRJ1SuOD5MBkLy4Wi1Hv264gEfNB02erXhos456htEwdy9zwUpXrgAIQ6bvZmD+xo9N79vOfNhSWxQ==",
+  "dgSpecHash": "5qEFULLd4v0KNvXtcUTUgYsnCFWu3rr2nkq72VZIgqOwCB9Si8emhPE9RDvCJpWJbsovN545jBZc+Y1t6WyH5Q==",
   "success": true,
   "projectFilePath": "/Users/masoudbanimahd/MyProjects/ClearnArchitecture+CQRS/ClearnArcCQRS/Application/Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/masoudbanimahd/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/masoudbanimahd/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/masoudbanimahd/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/masoudbanimahd/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
