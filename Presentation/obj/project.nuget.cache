@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Mplq5C4/Nl+qxw1+P97JLQ+FhccmnTwbcezcZzqB5mrMW+SW1yJ1nK6ls1f0Fp1+n1/HkcDOafsbeqZ+NyymWA==",
+  "dgSpecHash": "ijwdyvTKp5kh3Poj8qRR0xSENsdsn8qS407jgJs6/oF2xITC78FjhAFv+45iDFajyNkue2ifagbithYOB0qaxA==",
   "success": true,
   "projectFilePath": "/Users/masoudbanimahd/MyProjects/ClearnArchitecture+CQRS/ClearnArcCQRS/Presentation/Presentation.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/masoudbanimahd/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/masoudbanimahd/.nuget/packages/mapster/7.4.0/mapster.7.4.0.nupkg.sha512",
+    "/Users/masoudbanimahd/.nuget/packages/mapster.core/1.2.1/mapster.core.1.2.1.nupkg.sha512",
+    "/Users/masoudbanimahd/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/masoudbanimahd/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/masoudbanimahd/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
